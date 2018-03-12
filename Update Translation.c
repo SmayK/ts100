@@ -68,9 +68,9 @@ const char* SettingsShortNames[17][2] = {
 };
 
 const char* SettingsMenuEntries[4] = {
-/*Soldering Menu*/"Soudure \ nParamètres",
+/*Soldering Menu*/"Soudure\nParamètres",
 /* Power Saving Menu*/"Mode\nVeille",
-/* UI Menu*/"Interface \ nUtilisateur",
+/* UI Menu*/"Interface\nUtilisateur",
 /* Advanced Menu*/"Options\nAdvanced", };
 const char* SettingsMenuEntriesDescriptions[4] ={
 "Paramètres de soudage",
