@@ -36,7 +36,7 @@ const char* WarningAdvancedString = "ATTENTION! CHAUD"; // Must be <= 16 chars
 const char* SleepingTipAdvancedString = "PANNE:";      // <=6 chars
 const char* IdleTipString = "PANNE:";     // IdleTipString+IdleSetString <= 10
 const char* IdleSetString = " Set:";    // preferably start with a space; IdleTipString+IdleSetString <= 10
-const char* TipDisconnectedString = "PANNE DEBRANCH"; // <=16 chars
+const char* TipDisconnectedString = "PANNE DEBRANCHE"; // <=16 chars
 const char* SolderingAdvancedPowerPrompt = "Puissance: ";
 
 const char SettingRightChar = 'D';
