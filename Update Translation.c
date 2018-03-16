@@ -19,7 +19,7 @@ const char* SettingsDescriptions[17] = {
   /* Settings reset command             */ "Réinitialiser tous les réglages",
   /* Calibrate input voltage            */ "Etalonner tension d'entrée. Boutons pour ajuster, appui long pour quitter",
   /* Advanced soldering screen enabled  */ "Afficher des informations détaillées pendant la soudure",
-  /* Description Scroll Speed           */ "Vitesse de défilement de ce texte à",
+  /* Description Scroll Speed           */ "Vitesse de défilement de ce texte en R=Rapide L=Lent",
 };
 
 const char* SettingsCalibrationWarning = "Assurez-vous que la panne soit à température ambiante avant de continuer!";
