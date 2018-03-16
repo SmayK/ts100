@@ -13,7 +13,7 @@ const char* SettingsDescriptions[17] = {
   /* Display rotation mode              */ "Orientation de l'affichage <A=Automatique G=Gaucher D=Droitier>",
   /* Boost enabled                      */ "Activer le mode \"Boost\" en maintenant le bouton de devant pendant la soudure",
   /* Boost temperature                  */ "Température du mode \"Boost\"",
-  /* Automatic start mode               */ "Démarrer automatiquement la soudure à l'allumage <A=Activé, V=Mode Veille, D=Désactivé>",
+  /* Automatic start mode               */ "Mode de démarage automatique à l'allumage <A=Activé, V=Mode Veille, D=Désactivé>",
   /* Cooldown blink                     */ "Faire clignoter la température lors du refroidissement tant que la panne est chaude.",
   /* Temperature calibration enter menu */ "Etalonner la température de la panne.",
   /* Settings reset command             */ "Réinitialiser tous les réglages",
