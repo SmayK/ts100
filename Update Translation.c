@@ -57,14 +57,14 @@ const char* SettingsShortNames[17][2] = {
   /* (<= 13) Advanced idle display mode enabled */ {"Ecran veille", "détaillé"},
   /* (<= 13) Display rotation mode              */ {"Orientation", "de l'écran"},
   /* (<= 13) Boost enabled                      */ {"Activation du", "mode Boost"},
-  /* (<=  9) Boost temperature                  */ {"Temp.", "Boost"},
+  /* (<=  9) Boost temperature                  */ {"temp.", "Boost"},
   /* (<= 13) Automatic start mode               */ {"Démarrage", "automatique"},
   /* (<= 13) Cooldown blink                     */ {"Refroidir en", "clignottant"},
   /* (<= 16) Temperature calibration enter menu */ {"Etalonner", "température"},
   /* (<= 16) Settings reset command             */ {"Réinitialisation", "d'usine"},
   /* (<= 16) Calibrate input voltage            */ {"Etalonner", "tension d'entrée"},
   /* (<= 13) Advanced soldering screen enabled  */ {"Ecran soudure", "détaillé"},
-  /* (<= 11) Display Help Text Scroll Speed     */ {"Description "," Vitesse de défilement"},
+  /* (<= 11) Display Help Text Scroll Speed     */ {"Vitesse de","défilement"},
 };
 
 const char* SettingsMenuEntries[4] = {
