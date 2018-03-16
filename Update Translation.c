@@ -15,7 +15,7 @@ const char* SettingsDescriptions[17] = {
   /* Boost temperature                  */ "Température du mode \"Boost\"",
   /* Automatic start mode               */ "Démarrer automatiquement la soudure a l'allumage <A=Activé, V=Mode Veille, D=Désactivé>",
   /* Cooldown blink                     */ "Faire clignoter la température lors du refroidissement tant que la panne est chaude.",
-  /* Temperature calibration enter menu */ "Etalonner température de la panne.",
+  /* Temperature calibration enter menu */ "Etalonner la température de la panne.",
   /* Settings reset command             */ "Réinitialiser tous les réglages",
   /* Calibrate input voltage            */ "Etalonner tension d'entrée. Boutons pour ajuster, appui long pour quitter",
   /* Advanced soldering screen enabled  */ "Afficher des informations détaillées pendant la soudure",
@@ -71,7 +71,7 @@ const char* SettingsMenuEntries[4] = {
 /*Soldering Menu*/"Soudure\nParamètres",
 /* Power Saving Menu*/"Mode\nVeille",
 /* UI Menu*/"Interface\nUtilisateur",
-/* Advanced Menu*/"Options\nAdvanced", };
+/* Advanced Menu*/"Options\nAvancées", };
 const char* SettingsMenuEntriesDescriptions[4] ={
 "Paramètres de soudage",
 "Paramètres d'économie d'énergie",
