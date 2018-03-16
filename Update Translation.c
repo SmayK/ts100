@@ -43,8 +43,8 @@ const char SettingRightChar = 'D';
 const char SettingLeftChar = 'G';
 const char SettingAutoChar = 'A';
 
-const char SettingFastChar = 'F';
-const char SettingSlowChar = 'S';
+const char SettingFastChar = 'R';
+const char SettingSlowChar = 'L';
 
 const enum ShortNameType SettingsShortNameType = SHORT_NAME_DOUBLE_LINE;
 const char* SettingsShortNames[17][2] = {
