@@ -17,7 +17,7 @@ const char* SettingsDescriptions[17] = {
   /* Cooldown blink                     */ "Faire clignoter la température lors du refroidissement tant que la panne est chaude.",
   /* Temperature calibration enter menu */ "Etalonner la température de la panne.",
   /* Settings reset command             */ "Réinitialiser tous les réglages",
-  /* Calibrate input voltage            */ "Etalonner tension d'entrée. Boutons pour ajuster, appui long pour quitter",
+  /* Calibrate input voltage            */ "Etalonner la tension d'entrée. Boutons pour ajuster, appui long pour quitter",
   /* Advanced soldering screen enabled  */ "Afficher la des informations détaillées pendant la soudure",
   /* Description Scroll Speed           */ "Vitesse de défilement de ce texte en R=Rapide L=Lent",
 };
