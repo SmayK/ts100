@@ -18,7 +18,7 @@ const char* SettingsDescriptions[17] = {
   /* Temperature calibration enter menu */ "Etalonner la température de la panne.",
   /* Settings reset command             */ "Réinitialiser tous les réglages",
   /* Calibrate input voltage            */ "Etalonner tension d'entrée. Boutons pour ajuster, appui long pour quitter",
-  /* Advanced soldering screen enabled  */ "Afficher des informations détaillées pendant la soudure",
+  /* Advanced soldering screen enabled  */ "Afficher la des informations détaillées pendant la soudure",
   /* Description Scroll Speed           */ "Vitesse de défilement de ce texte en R=Rapide L=Lent",
 };
 
